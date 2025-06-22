@@ -1,0 +1,29 @@
+[
+  {
+    "id": "550e8400-e29b-41d4-a716-446655440000",
+    "title": "Wireless Bluetooth Earbuds",
+    "description": "High-quality wireless earbuds with 24hr battery life and IPX7 waterproof rating. Perfect for workouts and daily use.",
+    "price": "$49.99",
+    "imageUrl": "https://m.media-amazon.com/images/I/71WkDp--uqL._AC_SL1500_.jpg",
+    "affiliateLink": "https://www.amazon.com/dp/B08N5KWB9H/?tag=yourtag-20",
+    "rating": 5
+  },
+  {
+    "id": "6ba7b810-9dad-11d1-80b4-00c04fd430c8",
+    "title": "Smart Fitness Watch",
+    "description": "Track your heart rate, steps, sleep patterns and receive smartphone notifications with this feature-packed smartwatch.",
+    "price": "$79.99",
+    "imageUrl": "https://m.media-amazon.com/images/I/71qod7fX-8L._AC_SL1500_.jpg",
+    "affiliateLink": "https://www.amazon.com/dp/B08N5N1P9Q/?tag=yourtag-20",
+    "rating": 4
+  },
+  {
+    "id": "6ba7b811-9dad-11d1-80b4-00c04fd430c9",
+    "title": "Portable Blender",
+    "description": "USB rechargeable personal blender for smoothies and shakes. Perfect for travel and office use.",
+    "price": "$29.99",
+    "imageUrl": "https://m.media-amazon.com/images/I/71YHjVXyR0L._AC_SL1500_.jpg",
+    "affiliateLink": "https://www.amazon.com/dp/B08N5P9D9L/?tag=yourtag-20",
+    "rating": 4
+  }
+]
